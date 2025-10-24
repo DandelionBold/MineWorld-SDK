@@ -102,9 +102,9 @@ Custom visual styles:
 - **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to game modding tool development
 - [Planning & Roadmap](docs/planning/overall.md) - SDK vision and roadmap
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
-- Modding Guide *(Coming Soon)*
-- Plugin API Reference *(Coming Soon)*
-- Content Creation Tutorials *(Coming Soon)*
+- [Modding Guide](docs/modding/README.md) - Complete modding documentation
+- [Plugin API Reference](docs/api/README.md) - Plugin development API
+- [Content Creation Tutorials](docs/tutorials/README.md) - Step-by-step guides
 
 ---
 
@@ -186,11 +186,11 @@ mwtool install Teleport-1.0.0.zip --game-path ~/MineWorld
 
 ## 🎓 Tutorials
 
-- Your First Plugin (5 minutes) *(Coming Soon)*
-- Adding Custom Blocks *(Coming Soon)*
-- Creating a Texture Pack *(Coming Soon)*
-- Biome and Worldgen Modding *(Coming Soon)*
-- Publishing Your Mod *(Coming Soon)*
+- [Your First Plugin (5 minutes)](docs/tutorials/first-plugin.md) - Create a simple plugin
+- [Adding Custom Blocks](docs/tutorials/custom-blocks.md) - Add new block types
+- [Creating a Texture Pack](docs/tutorials/texture-pack.md) - Custom textures and models
+- [Biome and Worldgen Modding](docs/tutorials/biome-modding.md) - Modify world generation
+- [Publishing Your Mod](docs/tutorials/publishing.md) - Share your creations
 
 ---
 
@@ -245,11 +245,33 @@ Example mods and templates are licensed under [CC BY 4.0](LICENSE-CC-BY-4.0).
 
 ---
 
+## 🌟 Related Projects
+
+### Game Target
+- **[MineWorld](https://github.com/DandelionBold/MineWorld)** - Game that MineWorld-SDK extends
+  - Game-specific content and mechanics
+  - Modding API and hooks
+  - [Game Documentation](https://github.com/DandelionBold/MineWorld/blob/main/docs/learning/README.md)
+
+### Engine Foundation
+- **[BlockCore](https://github.com/DandelionBold/BlockCore)** - Game engine powering MineWorld
+  - Core rendering and physics
+  - Plugin architecture
+  - [Engine Documentation](https://github.com/DandelionBold/BlockCore/blob/main/docs/learning/README.md)
+
+### Engine-Level Tools
+- **[BlockCore-SDK](https://github.com/DandelionBold/BlockCore-SDK)** - Engine extension toolkit
+  - Advanced plugin development
+  - Engine-level modifications
+  - [SDK Documentation](https://github.com/DandelionBold/BlockCore-SDK/blob/main/docs/learning/README.md)
+
+---
+
 ## 💬 Community
 
 - GitHub Issues: Bug reports and feature requests
-- Discussions: Modding questions and showcase *(Coming Soon)*
-- Discord: Modding community *(Coming Soon)*
+- Discussions: Modding questions and showcase
+- Discord: Modding community
 
 ---
 
