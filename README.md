@@ -99,6 +99,7 @@ Custom visual styles:
 
 ## 📚 Documentation
 
+- **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to game modding tool development
 - [Planning & Roadmap](docs/planning/overall.md) - SDK vision and roadmap
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
 - Modding Guide *(Coming Soon)*
